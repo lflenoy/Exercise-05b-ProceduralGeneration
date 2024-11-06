@@ -2,10 +2,12 @@
 
 
 ## Implementation
+- Fixed the walls
+- Added public to the code
 
 ## References
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Leya Flenoy
